@@ -29,7 +29,6 @@
                         <prop key="kaptcha.textproducer.font.color">blue</prop>
                         <prop key="kaptcha.textproducer.font.size">30</prop>
                         <prop key="kaptcha.textproducer.font.names">宋体,楷体,微软雅黑</prop>
-                        <!--<prop key="kaptcha.textproducer.char.string">拉三等奖水电费和煽风点火收到货付款</prop> 默认为abcde2345678gfynmnpwx-->
                         <prop key="kaptcha.textproducer.char.length">4</prop>
                         <prop key="kaptcha.image.width">110</prop>
                         <prop key="kaptcha.image.height">35</prop>
